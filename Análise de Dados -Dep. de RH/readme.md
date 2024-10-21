@@ -24,6 +24,7 @@ Neste projeto, utilizamos bibliotecas do Python para explorar e analisar dados r
 - Numpy
 - Seaborn
 - Matplotlib
+- Sklearn
 
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para entrar em contato para conversarmos e discutirmos possibilidades.
