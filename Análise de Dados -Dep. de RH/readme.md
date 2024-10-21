@@ -11,12 +11,6 @@ Neste projeto, utilizamos bibliotecas do Python para explorar e analisar dados r
 - **Visualizações:** Criação de gráficos e visualizações com `seaborn` e `matplotlib`.
 - **Insights para RH:** Identificação de padrões em métricas como turnover, satisfação dos colaboradores, ou desempenho.
 
-## 📂 Estrutura do Projeto
-
-- `Análise RH.ipynb`: Notebook com o código completo e as análises realizadas.
-- `data/`: (Opcional) Diretório para armazenar os dados utilizados na análise.
-- `images/`: (Opcional) Diretório para armazenar gráficos gerados durante a execução.
-
 ## 📊 Exemplos de Análises Realizadas
 
 - **Análise de Turnover:** Identificação de taxas de rotatividade por departamento.
